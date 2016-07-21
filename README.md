@@ -1,3 +1,5 @@
+This was a peer assignment at Prime Digital Academy. Below are the instructions provided.
+
 # Prime Mongo Shell Peer Challenge
 
 Now that you've learned some of the basics of querying MongoDB via the mongo shell, use that information to query a collection of bios. Remember to switch off with your partner half-way through this exercise.
